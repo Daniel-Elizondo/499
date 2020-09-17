@@ -3,9 +3,9 @@ package gitAssignment;
 public class bubbleSort {
 	
 	public static void main(String[] args) {
-		
-		int[] arr = {6,2,52,5,2,57,654,1,7};
-		int n = 3;
+		//Hello Github
+		int[] arr = {12,445,6,5674,2,346,7232,9};
+		int n = 7;
 		
 		int[] sortedArr = sort(arr);
 		
